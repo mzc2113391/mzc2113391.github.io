@@ -109,3 +109,5 @@ service-worker: true
 #         href: "https://developer.apple.com/"
 #     }
 # ]
+kramdown:
+  math_engine: MathJax
